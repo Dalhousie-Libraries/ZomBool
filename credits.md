@@ -13,7 +13,7 @@ Background photos are found under [ZomBool/game/images/](game/images/).
 - street.jpg: [**Sunset empty streets**](https://www.flickr.com/photos/i8ipod/12737288214/) by [YLev](https://www.flickr.com/people/i8ipod/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
 
 ## Sounds and Music
-Sounds are music are found under [ZomBool/game/](game/).
+Sounds and music are found under [ZomBool/game/](game/).
 
 ### Sounds
 - A_Tone.mp3: [**A Tone Sound**](http://soundbible.com/1815-A-Tone.html) by [His Self](http://soundbible.com/1815-A-Tone.html) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
