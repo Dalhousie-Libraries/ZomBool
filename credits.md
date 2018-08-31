@@ -24,11 +24,11 @@ Sounds and music are found under [ZomBool/game/](game/).
 
 ### Music
 - End of War.mp3: [**End of War**](http://www.newgrounds.com/audio/listen/541709) by [BlueOceans](http://blueoceans.newgrounds.com/) is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
-- Enter the Party.mp3: **Enter the Party** by [Kevin MacLeod](www.incompetech.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
-- Lithium.mp3: **Lithium** by [Kevin MacLeod](www.incompetech.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
-- Ossuary 5.mp3: **Ossuary 5 - Rest** by [Kevin MacLeod](www.incompetech.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
-- The Machine Thinks.mp3: **The Machine Thinks** by [Kevin MacLeod](www.incompetech.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
-- Unpromised.mp3: **Unpromised** by [Kevin MacLeod](www.incompetech.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+- Enter the Party.mp3: **Enter the Party** by [Kevin MacLeod](https://incompetech.com/) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+- Lithium.mp3: **Lithium** by [Kevin MacLeod](https://incompetech.com/) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+- Ossuary 5.mp3: **Ossuary 5 - Rest** by [Kevin MacLeod](https://incompetech.com/) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+- The Machine Thinks.mp3: **The Machine Thinks** by [Kevin MacLeod](https://incompetech.com/) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
+- Unpromised.mp3: **Unpromised** by [Kevin MacLeod](https://incompetech.com/) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
 
 ## People
 - Created by: **Julie Marcoux**.
