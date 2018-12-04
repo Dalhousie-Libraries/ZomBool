@@ -613,7 +613,17 @@ label fr_ch2:
                 jump the_end
                 
             "Ignorer le sentiment de déjà-vu et penser aux étapes de recherche.":
-                call sc_electro from _call_sc_electro_4
+                call sc_electro from _call_sc_electro_4 
+                call choixMenu from _call_choixMenu_36 
+                call fr_elect_rech1 from _call_fr_elect_rech1_1 #1 victory point
+                
+                call choixMenu from _call_choixMenu_37
+                call fr_elect_rech2 from _call_fr_elect_rech2_1 #1 victory point but can lose an additional 4 points
+                
+                $save_name = "Un survivant?"
+                call fr_elect_Concl from _call_fr_elect_Concl_3 
+                
+                jump the_end
     else:
         sv "Menu"
         $shuffle_menu()
@@ -641,6 +651,7 @@ label fr_ch2:
                 jump the_end
                 
             "Whoa, on ne va pas sauter les étapes de recherche!":
+                call sc_electro from _call_sc_electro_5 
                 call choixMenu from _call_choixMenu_26 
                 call fr_elect_rech1 from _call_fr_elect_rech1 #1 victory point
                 
@@ -699,7 +710,19 @@ label en_ch2:
                 jump the_end
                 
             "Ignore the feeling of déjà-vu and think about the steps to a good search.":
-                call sc_electro from _call_sc_electro_5
+                call sc_electro from _call_sc_electro_7 
+                
+                call choixMenu from _call_choixMenu_38
+                call en_elect_rech1 from _call_en_elect_rech1_1 #1 victory point
+                
+                call choixMenu from _call_choixMenu_39
+                call en_elect_rech2 from _call_en_elect_rech2_1 #1 victory point but can lose an additional 4 points
+                
+                $save_name = "Any survivors?"
+                call en_elect_Concl from _call_en_elect_Concl_3
+                
+                jump the_end
+
                 
     else:
         sv "Menu"
